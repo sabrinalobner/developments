@@ -1,27 +1,15 @@
 {
   "files": {
     "main.css": "/movements/static/css/main.49042dc3.css",
-    "main.js": "/movements/static/js/main.1e99f06c.js",
+    "main.js": "/movements/static/js/main.cfdb242c.js",
     "static/js/787.91df7a4f.chunk.js": "/movements/static/js/787.91df7a4f.chunk.js",
-    "static/media/little-marble-kisses-embrace.jpg": "/movements/static/media/little-marble-kisses-embrace.544a722d808e957f7b4f.jpg",
-    "static/media/little-marble-kisses-thanks.jpg": "/movements/static/media/little-marble-kisses-thanks.b1103cf7575098afb8ec.jpg",
-    "static/media/little-marble-kisses-promo.jpg": "/movements/static/media/little-marble-kisses-promo.830fe0065143960ab649.jpg",
-    "static/media/broadway-green-alliance.jpg": "/movements/static/media/broadway-green-alliance.086e064e88edfa8a1c16.jpg",
-    "static/media/nyc-cultural-affairs.jpg": "/movements/static/media/nyc-cultural-affairs.0e0d998218a9ce6ca10a.jpg",
-    "static/media/howard-foundation.jpg": "/movements/static/media/howard-foundation.fcf3a3c8292e3a0092c9.jpg",
-    "static/media/haagen-dazs.jpg": "/movements/static/media/haagen-dazs.c10599fca57e12224026.jpg",
-    "static/media/nys-council-on-the-arts.jpg": "/movements/static/media/nys-council-on-the-arts.e2be05b426beabad6e1f.jpg",
-    "static/media/ny-community-trust.jpg": "/movements/static/media/ny-community-trust.b5a0158fcf7d55e8e0c4.jpg",
-    "static/media/art-new-york.jpg": "/movements/static/media/art-new-york.e58f95fb5ea4b1462f8a.jpg",
-    "static/media/mental-insight-foundation.jpg": "/movements/static/media/mental-insight-foundation.92fd18e4172a90079cf9.jpg",
-    "static/media/shubert-foundation.jpg": "/movements/static/media/shubert-foundation.2d6d3d5eab0270f84c87.jpg",
     "index.html": "/movements/index.html",
     "main.49042dc3.css.map": "/movements/static/css/main.49042dc3.css.map",
-    "main.1e99f06c.js.map": "/movements/static/js/main.1e99f06c.js.map",
+    "main.cfdb242c.js.map": "/movements/static/js/main.cfdb242c.js.map",
     "787.91df7a4f.chunk.js.map": "/movements/static/js/787.91df7a4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49042dc3.css",
-    "static/js/main.1e99f06c.js"
+    "static/js/main.cfdb242c.js"
   ]
 }
