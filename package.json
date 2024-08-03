@@ -1,8 +1,8 @@
 {
-  "name": "little-marble-kisses",
+  "name": "movements",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sabrinalobner.github.io/little-marble-kisses",
+  "homepage": "https://sabrinalobner.github.io/movements",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
