@@ -1,36 +1,36 @@
-import promo from './little-marble-kisses-promo.jpg'
-import embrace from './little-marble-kisses-embrace.jpg'
-import thanks from './little-marble-kisses-thanks.jpg'
-import theTankLogo from './the-tank-logo.png'
-import haagenDazs from './sponsor-logos/haagen-dazs.jpg'
-import nycCulturalAffairs from './sponsor-logos/nyc-cultural-affairs.jpg'
-import shubertFoundation from './sponsor-logos/shubert-foundation.jpg'
-import nyCommunityTrust from './sponsor-logos/ny-community-trust.jpg'
-import nysCouncilOnTheArts from './sponsor-logos/nys-council-on-the-arts.jpg'
-import howardFoundation from './sponsor-logos/howard-foundation.jpg'
-import artNewYork from './sponsor-logos/art-new-york.jpg'
-import broadwayGreenAlliance from './sponsor-logos/broadway-green-alliance.jpg'
-import mentalInsightFoundation from './sponsor-logos/mental-insight-foundation.jpg'
+// import promo from './little-marble-kisses-promo.jpg'
+// import embrace from './little-marble-kisses-embrace.jpg'
+// import thanks from './little-marble-kisses-thanks.jpg'
+// import theTankLogo from './the-tank-logo.png'
+// import haagenDazs from './sponsor-logos/haagen-dazs.jpg'
+// import nycCulturalAffairs from './sponsor-logos/nyc-cultural-affairs.jpg'
+// import shubertFoundation from './sponsor-logos/shubert-foundation.jpg'
+// import nyCommunityTrust from './sponsor-logos/ny-community-trust.jpg'
+// import nysCouncilOnTheArts from './sponsor-logos/nys-council-on-the-arts.jpg'
+// import howardFoundation from './sponsor-logos/howard-foundation.jpg'
+// import artNewYork from './sponsor-logos/art-new-york.jpg'
+// import broadwayGreenAlliance from './sponsor-logos/broadway-green-alliance.jpg'
+// import mentalInsightFoundation from './sponsor-logos/mental-insight-foundation.jpg'
 
 import './App.css';
 
-const logos = {
-  haagenDazs,
-  nycCulturalAffairs,
-  shubertFoundation,
-  nyCommunityTrust,
-  nysCouncilOnTheArts,
-  howardFoundation,
-  artNewYork,
-  broadwayGreenAlliance,
-  mentalInsightFoundation,
-}
+// const logos = {
+//   haagenDazs,
+//   nycCulturalAffairs,
+//   shubertFoundation,
+//   nyCommunityTrust,
+//   nysCouncilOnTheArts,
+//   howardFoundation,
+//   artNewYork,
+//   broadwayGreenAlliance,
+//   mentalInsightFoundation,
+// }
 
-const images = {
-  promo,
-  embrace,
-  thanks,
-}
+// const images = {
+//   promo,
+//   embrace,
+//   thanks,
+// }
 
 function App() {
   return (
@@ -40,7 +40,7 @@ function App() {
       <section className="page-1">
         <header className="header">
           <div className="byline">
-            Sabrina Gail Lobner
+            Developments
           </div>
         </header>
       </section>
