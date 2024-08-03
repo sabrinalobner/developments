@@ -1,12 +1,8 @@
-import promo from './images/promo.jpg'
-import secondary from './images/secondary.jpg'
+import image1 from './images/image1.jpg'
+import image2 from './images/image2.jpg'
 
 import './App.css';
 
-const images = {
-  promo,
-  secondary,
-}
 // A person in a shimmering red dress lies on a reflective surface, bathed in soft red and blue lighting effects
 function App() {
   return (
@@ -25,11 +21,11 @@ function App() {
             Sunday, August 4, 2024 in New York City
           </div>
         </header>
-        <div className="promo-image-wrapper">
+        <div className="main image-wrapper">
           <img
-            className="image promo"
+            className="wrap"
             alt="A dancer artistically posed, surrounded by vibrant red and blue hues, with a reflection on a water-like surface."
-            src={images.promo}
+            src={image1}
           />
         </div>
       </section>
@@ -143,13 +139,16 @@ function App() {
           When hearing this piece of music by Tom Player, Elaina’s Theme, Nicole instantly felt a story line emerge, which was very representative of her journey with Hydrocephalus, an incurable medical condition where there’s excess fluid on the brain. Using sound and movement, Cole Collective aims to bring more awareness to Hydrocephalus through this work.
         </p>
       </section>
-      <div className="promo-image-wrapper">
-          <img
-            className="image promo"
-            alt="A dancer artistically posed, surrounded by vibrant red and blue hues, with a reflection on a water-like surface."
-            src={images.secondary}
-          />
-        </div>
+      <div className="secondary image-wrapper">
+        <img
+          className="wrap"
+          alt="A dancer artistically posed, surrounded by vibrant red and blue hues, with a reflection on a water-like surface."
+          src={image2}
+        />
+      </div>
+      <section className='credits'>
+        <h1>PRODUCTION TEAM</h1>
+      </section>
     </div>
   );
 }

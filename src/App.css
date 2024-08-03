@@ -1,5 +1,20 @@
+/*
+SHARED STYLES
+*/
 .App {
   overflow-x: hidden;
+}
+
+@media (width >= 768px) {
+  .App {
+    padding: 0 10vw 0 10vw;
+  }
+}
+
+@media (width >= 1024px) {
+  .App {
+    padding: 0 20vw 0 20vw;
+  }
 }
 
 * {
@@ -8,15 +23,11 @@
   font-family:Georgia, 'Times New Roman', Times, serif
 }
 
-.image-wrapper {
-  display: flex;
-  justify-content: center;
-}
 section {
   font-size: 14px;
-  padding-left: 10px;
-  padding-right: 10px;
-  margin-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 60px;
 }
 
 p {
@@ -40,12 +51,38 @@ h3, h4 {
   text-align: center;
 }
 
+/*
+IMAGES
+*/
+img.wrap {
+  width: 100vw;
+  max-width: 66vh;
+}
+
+div.image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+div.image-wrapper.main {
+  margin-top: 25px;
+  margin-bottom: 30vh;
+}
+
+div.image-wrapper.secondary {
+  margin-bottom: 50px;
+}
+
+/*
+LANDING
+*/
 section.landing {
   height: 100vh;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
   font-size: 14px;
+  margin-bottom: 0px;
 }
 
 section.landing header {
@@ -72,18 +109,9 @@ section.landing .date {
   margin-bottom: 30px;
 }
 
-section .smallTitle {
-  font-size: 16px;
-}
-
-.promo.image {
-  width: 100vw;
-  max-width: 66vh;
-}
-
-.promo-image-wrapper {
-  display: flex;
-  justify-content: center;
-  margin-top: 50px;
-  margin-bottom: 30vh;
+/*
+CREDITS
+*/
+section.credits h1 {
+  text-align: center;
 }
