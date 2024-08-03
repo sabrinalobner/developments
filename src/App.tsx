@@ -146,8 +146,54 @@ function App() {
           src={image2}
         />
       </div>
-      <section className='credits'>
-        <h1>PRODUCTION TEAM</h1>
+      <section className='production-team'>
+        <h3>PRODUCTION TEAM</h3>
+        <p className='row'>
+          <span className='role'>Executive Producer</span>
+          <span className='dots'></span>
+          <span className='name'>Sabrina Gail Lobner</span>
+        </p>
+        <p className='row'>
+          <span className='role'>Stage Mgr. & Technical Dir.</span>
+          <span className='dots'></span>
+          <span className='name'>Gwen Appenfeller</span>
+        </p>
+        <p className='row'>
+          <span className='role'>House Mgrs.</span>
+          <span className='dots'></span>
+          <span className='name'>Josh McWhortor, Shuga Ohashi</span>
+        </p>
+        <p className='row'>
+          <span className='role'>Digital Program</span>
+          <span className='dots'></span>
+          <span className='name'>Lucas Chin</span>
+        </p>
+        <p className='row'>
+          <span className='role'>Performance Video & Photos</span>
+          <span className='dots'></span>
+          <span className='name'>Tim Fuchs Productions</span>
+        </p>
+        <p className='row'>
+          <span className='role'>Program & Promo. Images</span>
+          <span className='dots'></span>
+          <span className='name'>Bjorn Bolinder</span>
+        </p>
+      </section>
+      <section className='special-thanks'>
+        <h3>
+          SPECIAL THANKS AND<br />RECOGNITION TO
+        </h3>
+        <p>
+          <b>
+            Nicole Boutmy de Katzmann, Flávia Chi, Margaret Yawman, Richard Stafford & Josh Walden
+          </b>
+        </p>
+        <p>
+          Our gratitude to The <b>American Tap Dance Foundation</b> & <b>Tony Waag</b> for their generous assistance with the tap flooring!
+        </p>
+        <p>
+          <i>Thank you Bjorn Bolinder/Find The Light Photography, Lucas Chin, Stephanie & Michael Lobner, and Joshua McWhortor for volunteering your time and efforts!</i>
+        </p>
       </section>
     </div>
   );

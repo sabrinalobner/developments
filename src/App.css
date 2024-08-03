@@ -70,7 +70,7 @@ div.image-wrapper.main {
 }
 
 div.image-wrapper.secondary {
-  margin-bottom: 50px;
+  margin-bottom: 75px;
 }
 
 /*
@@ -112,6 +112,34 @@ section.landing .date {
 /*
 CREDITS
 */
-section.credits h1 {
+section.production-team h3 {
   text-align: center;
+}
+
+section.production-team h3 {
+  margin-bottom: 50px;
+}
+
+section.production-team p.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+section.production-team p.row span.dots {
+  flex-grow: 1;
+  margin: 0 5px 0 5px;
+  translate: 0 -3px;
+  border-bottom: 2px dotted black;
+}
+
+section.special-thanks {
+  text-align: center;
+}
+
+section.special-thanks h3 {
+  margin-bottom: 25px;
+}
+
+section.special-thanks p {
+  margin-bottom: 25px;
 }
