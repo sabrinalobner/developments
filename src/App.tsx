@@ -141,7 +141,7 @@ function App() {
       <div className="secondary image-wrapper">
         <img
           className="wrap"
-          alt="A person in a shimmering red dress lies on a reflective surface, bathed in soft red and blue lighting effects."
+          alt="A dancer in a shimmering red dress lies on a reflective surface, bathed in soft red and blue lighting effects."
           src={image2}
         />
       </div>
