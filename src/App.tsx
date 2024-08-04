@@ -185,7 +185,7 @@ function App() {
         </h3>
         <p>
           <b>
-            Nicole Boutmy de Katzmann, Flávia Chi, Margaret Yawman, Richard Stafford & Josh Walden
+            Nicole Boutmy de Katzmann, Flávia Chi, Amy Harte, Margaret Yawman, Richard Stafford & Josh Walden
           </b>
         </p>
         <p>
