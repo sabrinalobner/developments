@@ -3,7 +3,6 @@ import image2 from './images/image2.jpg'
 
 import './App.css';
 
-// A person in a shimmering red dress lies on a reflective surface, bathed in soft red and blue lighting effects
 function App() {
   return (
     <div className="App">
@@ -142,7 +141,7 @@ function App() {
       <div className="secondary image-wrapper">
         <img
           className="wrap"
-          alt="A dancer artistically posed, surrounded by vibrant red and blue hues, with a reflection on a water-like surface."
+          alt="A person in a shimmering red dress lies on a reflective surface, bathed in soft red and blue lighting effects."
           src={image2}
         />
       </div>
